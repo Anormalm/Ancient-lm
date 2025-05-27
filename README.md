@@ -17,10 +17,6 @@ It fine-tunes GPT-2 to produce poetic, meditative passages based on user-provide
 
 ## Example Usage
 
-```bash
-python generate.py
-```
-
 Prompt:
 
 ">" Theme: stillness
@@ -42,17 +38,17 @@ requirements.txt        # Dependencies (torch, transformers, datasets)
 
 
 ## Installation
-
+```bash
 pip install -r requirements.txt
-
+```
 Requires Python 3.10+ and PyTorch (with GPU recommended)
 
 To train:
-
+```bash
 python train_ancient_model.py
-
+```
 To generate:
-
+```bash
 python generate.py
-
+```
 
