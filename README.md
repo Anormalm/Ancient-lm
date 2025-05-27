@@ -23,7 +23,7 @@ python generate.py
 
 Prompt:
 
-> Theme: stillness
+">" Theme: stillness
 
 Output:
 
